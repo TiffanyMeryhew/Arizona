@@ -17,6 +17,9 @@ If you feel your use of code examples falls outside fair use or the permission
 given above, feel free to contact us at permissions@oreilly.com.
 */
 
+//The following code was used from the example code of Ben Fry and slightly changed 
+//for my purposes. -Tiffany Meryhew
+
 //color backgroundColor  = #333333;  // dark background color
 color backgroundColor  = #030031;  // dark background color
 color dormantColor     = #999966;  // initial color of the map
